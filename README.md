@@ -7,7 +7,7 @@ Welcome to my cybersecurity learning journey! This portfolio contains labs, tool
 ## 📜 Certifications
 
 - [✅ Cisco Introduction to Cybersecurity (July 2025)](https://www.credly.com/badges/3eb95ddb-1984-4ace-b820-0c41139307e9/public_url)
-
+- [✅ Cisco Cyber Threat Management ( August 2025)] (https://www.credly.com/badges/c0843c15-020c-4e68-9774-33a015e3b252/public_url)
 ---
 
 ## 🔐 Labs & Practice
@@ -19,7 +19,6 @@ Welcome to my cybersecurity learning journey! This portfolio contains labs, tool
 - **What I Learned**:
   - Spot fake domains
   - Analyze suspicious emails
-- _[Screenshot or notes here]_
 
 ---
 
